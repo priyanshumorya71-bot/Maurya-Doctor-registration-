@@ -1,0 +1,107 @@
+# Maurya Doctor Seva - Robots.txt
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /registration.html
+Allow: /*?doctor=*
+Allow: /*?specialty=*
+Allow: /*?city=*
+Allow: /*?district=*
+Allow: /*?search=*
+
+# सभी सर्च इंजन को अनुमति
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 2
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 3
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 2
+
+# सामाजिक मीडिया क्रॉलर्स
+User-agent: FacebookExternalHit
+Allow: /
+Crawl-delay: 1
+
+User-agent: Twitterbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: LinkedInBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Pinterest
+Allow: /
+Crawl-delay: 1
+
+# SEO के लिए महत्वपूर्ण पेजेस
+Sitemap: https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/sitemap.xml
+
+# महत्वपूर्ण मेटा टैग्स के लिए
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /wp-json/
+Disallow: /*.php$
+Disallow: /*.inc$
+Disallow: /*.gz$
+Disallow: /*.sql$
+Disallow: /*.log$
+
+# क्रॉलिंग रेट लिमिट
+Request-rate: 1/10
+Crawl-delay: 1
+
+# होस्ट (मुख्य डोमेन)
+Host: priyanshumorya71-bot.github.io
+
+# प्राथमिकता वाले URL पैटर्न
+Allow: /*.html$
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.svg$
+Allow: /*.webp$
+
+# SEO फ्रेंडली URL पैटर्न
+Allow: /doctor-*
+Allow: /specialty-*
+Allow: /city-*
+Allow: /district-*
+Allow: /search-*
+
+# HTTPS को प्राथमिकता
+Clean-param: ref /search/
+Clean-param: source /
+Clean-param: utm_source /
+Clean-param: utm_medium /
+Clean-param: utm_campaign /
+
+# कैश कंट्रोल (वैकल्पिक)
+# Cache-control: public, max-age=3600
+# Expires: 3600
