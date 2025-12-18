@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- मुख्य पेज -->
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://priyanshumorya71-bot.github.io/Maurya-Doctor-Registration/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://priyanshumorya71-bot.github.io/Maurya-Doctor-Registration/en" />
+    </url>
+    
+    <!-- रजिस्ट्रेशन पेज -->
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-Registration</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- डॉक्टर प्रोफाइल पेजेस -->
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?doctor=1</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?doctor=2</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?doctor=3</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?doctor=4</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?doctor=5</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?doctor=6</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?doctor=7</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?doctor=8</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?doctor=9</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?doctor=10</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?doctor=11</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?doctor=12</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?doctor=13</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?doctor=14</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?doctor=15</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- स्पेशलिटी बेस्ड पेजेस (SEO के लिए) -->
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?specialty=होम्योपैथिक-फिजिशियन</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?specialty=बाल-रोग-विशेषज्ञ</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?specialty=त्वचा-रोग-विशेषज्ञ</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?specialty=हड्डी-रोग-विशेषज्ञ</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?specialty=आँखों-के-डॉक्टर</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?specialty=स्त्री-रोग-विशेषज्ञ</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- सिटी बेस्ड पेजेस -->
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?city=सिवान</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?city=पटना</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?city=गोरखपुर</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?city=कानपुर</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?city=छपरा</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- डिस्ट्रिक्ट बेस्ड पेजेस -->
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?district=सिवान</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?district=पटना</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?district=गोरखपुर</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- SEO टर्म्स पेजेस -->
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?search=maurya+doctor+seva</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?search=doctor+appointment+bihar</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?search=online+doctor+booking</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?search=siwan+doctor</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?search=patna+doctor</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://priyanshumorya71-bot.github.io/Maurya-Doctor-seva/?search=gorakhpur+doctor</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- इमेज साइटमैप -->
+    <url>
+        <loc>https://i.ibb.co/N6gFcnBR/Picsart-25-12-17-18-54-57-108.jpg</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+</urlset>
